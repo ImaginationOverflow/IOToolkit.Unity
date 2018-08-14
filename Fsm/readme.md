@@ -1,4 +1,4 @@
-Simple usage example, more info on our [Blog]()
+Simple usage example, more info on our [Blog](https://www.patreon.com/posts/20756952)
 ```csharp
 public class Example : MonoBehaviour
 {
